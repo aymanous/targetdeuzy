@@ -1,10 +1,10 @@
 # targetdeuzy
 
-## Login page:
-![alt text](https://github.com/aymanous/targetdeuzy/screenshots/login.png)
+## Page de connexion:
+![alt text](https://github.com/aymanous/targetdeuzy/blob/master/screenshots/login.png?raw=true)
 
-## Pokedex page:
-![alt text](https://github.com/aymanous/targetdeuzy/screenshots/login.png)
+## Accueil:
+![alt text](https://github.com/aymanous/targetdeuzy/blob/master/screenshots/home.png?raw=true)
 
-## My team page:
-![alt text](https://github.com/aymanous/targetdeuzy/screenshots/login.png)
+## Mes espaces:
+![alt text](https://github.com/aymanous/targetdeuzy/blob/master/screenshots/empty-spaces.png?raw=true)
